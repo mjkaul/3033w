@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: 3033W - Matthew Kaul
 email: kaul0038@umn.edu
-description: Course page for Matthew Kaul's section of CSOM 3033W, Business Communications, at the University of Minnesota's Carlson School of Management
+description: Course page for Matthew Kaul's section of MGMT 3033W, Business Communications, at the University of Minnesota's Carlson School of Management
 baseurl: "/3033w" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://mjkaul.com/3033w" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mjkaul
 github_username:  mjkaul
 
