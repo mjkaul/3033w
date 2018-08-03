@@ -69,31 +69,31 @@ About this calendar:
 
 # Weeks 5 - 9
 
-Week 5 (10/8): 
+**Week 5 (10/8):**
 
 - Due: 
 - Topics: 
 - Resources: 
 
-Week 6 (10/15)
+**Week 6 (10/15)**
 
 - Due: 
 - Topics: 
 - Resources: 
 
-Week 7 (10/22): 
+**Week 7 (10/22):**
 
 - Due: 
 - Topics: 
 - Resources: 
 
-Week 8 (10/29):
+**Week 8 (10/29):**
 
 - Due: 
 - Topics: 
 - Resources: 
 
-Week 9 (11/5):
+**Week 9 (11/5):**
 
 - Due: 
 - Topics: 
@@ -110,44 +110,44 @@ Week 9 (11/5):
 
 # Weeks 10 - 14
 
-Week 10 (11/12):
+**Week 10 (11/12):**
 
 - Due: 
 - Topics: 
 - Resources: 
 
-Week 11 (11/19):
+**Week 11 (11/19):**
 
 - Due: 
 - Topics: 
 - Resources: 
 
-Week 12 (11/26):
+**Week 12 (11/26):**
 
 - Due: 
 - Topics: 
 - Resources: 
 
-Week 13 (12/3):
+**Week 13 (12/3):**
 
 - Due: 
 - Topics: 
 - Resources:  
 
-Week 14 (12/10; 12/14):
+**Week 14 (12/10; 12/14):**
 
 - Due: Final team evaluation (bring CP 235-9 to class).
 - Topics: Mourn the semester’s end. Crisis communications. Course evaluations.
 - Resources: a16z podcast: Crisis communications
 - Thursday, 12/14: Deloitte case-study competition finals. Time and location TBD. The top four teams will present. Everyone is welcome to come and watch.
 
+---
 
-# Other assignments/points:
+## Other assignments/points:
 
 - Participation throughout the semester (120 points)
 - 5 reading quizzes (5 quizzes * 15 points each - lowest score dropped = 60 points)
 
-# Books:
+## Books:
 
-- Course packet
-- Alan Jacobs, *How to Think: A Survival Guide for a World at Odds*
+- See the [About page](http://mjkaul.com/3033w/about) for the books for the course
