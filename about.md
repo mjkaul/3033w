@@ -8,8 +8,9 @@ MGMT 3033W: Business Communications that will help you improve your writing, spe
 
 The course meets weekly on Monday evenings, from 5:45 – 8:15 p.m, in CSOM 2-228.
 
-## Fall 2018 Basic Course Details ##
 ---
+## Fall 2018 Basic Course Details ##
+
 
 - Instructor: Matthew Kaul (kaul0038@umn.edu)
 - TK TA: Cassidy Gobran (gobra007@umn.edu)
@@ -20,8 +21,8 @@ The course meets weekly on Monday evenings, from 5:45 – 8:15 p.m, in CSOM 2-22
 - TK My office: 4–131
 - TK Office hours: Thursday afternoon (exact time TBA), and by appointment
  
-## Books
 ---
+## Books
 
 Two books are required for the course; two others are optional:
 
@@ -40,8 +41,8 @@ These two basic reference books will help you throughout the semester—and long
 - [Garner’s Modern English Usage](http://a.co/6CqxyE6): Simply put, this is the best book on how to use English well. It will answer any question you have about grammar, confusing or confused words, and much else besides. Highly recommended!
 - A [good dictionary](https://www.merriam-webster.com): Merriam Webster is online, free, and overall quite good.
 
-## Assignments Overview
 ---
+## Assignments Overview
 
 # Major Assignments
 

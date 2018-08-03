@@ -12,8 +12,9 @@ permalink: /calendar/
 - Bring your course packet to every class.
 - The calendar is subject to change so pay attention during class and, if you miss a class meeting, email one of your colleagues (i.e. not me) to find out what you missed.
 
-## Unit I. Ethos: Communicating with Integrity
 ---
+## Unit I. Ethos: Communicating with Integrity
+
 
 # Major Assignments
 
@@ -46,8 +47,8 @@ permalink: /calendar/
 - Topics: in-class social-media speeches; unit II preview; 
 - Resources: 
 
-## Unit II. Logos: Building strong arguments
 ---
+## Unit II. Logos: Building strong arguments
 
 # Major Assignments
 
@@ -86,8 +87,8 @@ permalink: /calendar/
 - Topics: 
 - Resources:  
   
-## Unit III. Pathos: Connecting with your audience
 ---
+## Unit III. Pathos: Connecting with your audience
 
 # Major Assignments
 
