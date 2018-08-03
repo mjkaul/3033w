@@ -4,27 +4,6 @@ title: F18 Calendar
 permalink: /calendar/
 ---
 
-## Fall 2018 Basic Course Details ##
----
-
-- Instructor: Matthew Kaul (kaul0038@umn.edu)
-- TK TA: Cassidy Gobran (gobra007@umn.edu)
-- TK Slack channel
-- Section 021 LEC
-- Course meeting times: Mondays, 5:45 - 8:15 p.m.
-- Classroom: CSOM 2–228
-- TK My office: 4–131
-- TK Office hours: Thursday afternoon (exact time TBA), and by appointment
- 
-About this calendar:
-
-- “Due” means do these things for class today. In other words, complete them before class on the day they are listed.
-- “Topics” are the topics we’ll cover in class that day.
-- All readings are either in the course packet (CP) or posted on the course Moodle site.
-- Bring your course packet to every class.
-- The calendar is subject to change so pay attention during class and, if you miss a class meeting, email one of your colleagues (i.e. not me) to find out what you missed.
-
-
 ## Unit I. Ethos: Communicating with Integrity
 ---
 
@@ -140,14 +119,3 @@ About this calendar:
 - Topics: Mourn the semester’s end. Crisis communications. Course evaluations.
 - Resources: a16z podcast: Crisis communications
 - Thursday, 12/14: Deloitte case-study competition finals. Time and location TBD. The top four teams will present. Everyone is welcome to come and watch.
-
----
-
-## Other assignments/points:
-
-- Participation throughout the semester (120 points)
-- 5 reading quizzes (5 quizzes * 15 points each - lowest score dropped = 60 points)
-
-## Books:
-
-- See the [About page](http://mjkaul.com/3033w/about) for the books for the course
