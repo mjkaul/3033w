@@ -4,6 +4,14 @@ title: F18 Calendar
 permalink: /calendar/
 ---
 
+**About this calendar:**
+
+- “Due” means do these things for class that day. In other words, complete them before class on the day they are listed.
+- “Topics” are the topics we’ll cover in class that day.
+- All readings are either included in the course packet (CP), linked to here, or uploaded to the course Google Drive folder.
+- Bring your course packet to every class.
+- The calendar is subject to change so pay attention during class and, if you miss a class meeting, email one of your colleagues (i.e. not me) to find out what you missed.
+
 ## Unit I. Ethos: Communicating with Integrity
 ---
 
@@ -18,7 +26,7 @@ permalink: /calendar/
 
 - Due: 
 - Topics: introductions; overview/syllabus; discuss intro speech
-- Resources
+- Resources: 
 
 **Week 2 (9/17):**
 

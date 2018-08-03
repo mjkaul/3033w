@@ -20,14 +20,6 @@ The course meets weekly on Monday evenings, from 5:45 – 8:15 p.m, in CSOM 2-22
 - TK My office: 4–131
 - TK Office hours: Thursday afternoon (exact time TBA), and by appointment
  
-About this calendar:
-
-- “Due” means do these things for class today. In other words, complete them before class on the day they are listed.
-- “Topics” are the topics we’ll cover in class that day.
-- All readings are either in the course packet (CP) or posted on the course Moodle site.
-- Bring your course packet to every class.
-- The calendar is subject to change so pay attention during class and, if you miss a class meeting, email one of your colleagues (i.e. not me) to find out what you missed.
-
 ## Books
 ---
 
