@@ -5,6 +5,7 @@ permalink: /calendar/
 ---
 
 ## Fall 2018 Basic Course Details ##
+---
 
 - Instructor: Matthew Kaul (kaul0038@umn.edu)
 - TK TA: Cassidy Gobran (gobra007@umn.edu)
@@ -23,10 +24,9 @@ About this calendar:
 - Bring your course packet to every class.
 - The calendar is subject to change so pay attention during class and, if you miss a class meeting, email one of your colleagues (i.e. not me) to find out what you missed.
 
----
 
-  
 ## Unit I. Ethos: Communicating with Integrity
+---
 
 # Major Assignments
 
@@ -59,10 +59,8 @@ About this calendar:
 - Topics: in-class social-media speeches; unit II preview; 
 - Resources: 
 
----
-
-  
 ## Unit II. Logos: Building strong arguments
+---
 
 # Major Assignments
 
@@ -100,10 +98,9 @@ Week 9 (11/5):
 - Due: 
 - Topics: 
 - Resources:  
-
----
   
 ## Unit III. Pathos: Connecting with your audience
+---
 
 # Major Assignments
 
