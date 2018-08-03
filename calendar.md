@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Calendar
+title: F18 Calendar
 permalink: /calendar/
 ---
 
-# MGMT 3033W: Course Calendar #
-
-## Basic Course Details ##
+## Fall 2018 Basic Course Details ##
 
 - Instructor: Matthew Kaul (kaul0038@umn.edu)
 - TK TA: Cassidy Gobran (gobra007@umn.edu)
@@ -27,89 +25,93 @@ About this calendar:
 
 ---
 
-# Unit I. Ethos: Communicating with Integrity #
+  
+## Unit I. Ethos: Communicating with Integrity
 
-## Major Assignments ##
+# Major Assignments
 
 - Intro Speech (40 points)
 - Social-Media Deck (200 points)
 
-## Weeks 1 - 4 ##
+# Weeks 1 - 4
 
-Week 1 (9/10):
+**Week 1 (9/10):**
 
 - Due: 
 - Topics: introductions; overview/syllabus; discuss intro speech
 - Resources
 
-Week 2 (9/17):
+**Week 2 (9/17):**
 
 - Due: intro speech (in-class); 
 - Topics: TED - evaluating ethos? plain language;
 - Resources: 
 
-Week 3 (9/24):
+**Week 3 (9/24):**
 
-Due: Read SEC handbook?
-Week 3 Topics: writing - plain language; plain-language impromptu speeches
+- Due: Read SEC handbook?
+- Topics: writing - plain language; plain-language impromptu speeches
+- Resources: 
 
-Week 4 (10/1):
+**Week 4 (10/1):**
 
 - Due: social-media decks
 - Topics: in-class social-media speeches; unit II preview; 
+- Resources: 
 
 ---
 
-# Unit II. Logos: Building strong arguments #
+  
+## Unit II. Logos: Building strong arguments
 
-## Major Assignments ##
+# Major Assignments
 
 - Persuasive Speech (200 points)
 - Timed Memo (100 points)
 
-## Weeks 5 - 9 ##
+# Weeks 5 - 9
 
 Week 5 (10/8): 
 
-Due: 
-Topics: 
-Resources: 
+- Due: 
+- Topics: 
+- Resources: 
 
 Week 6 (10/15)
 
-Due: 
-Topics: 
-Resources: 
+- Due: 
+- Topics: 
+- Resources: 
 
 Week 7 (10/22): 
 
-Due: 
-Topics: 
-Resources: 
+- Due: 
+- Topics: 
+- Resources: 
 
 Week 8 (10/29):
 
-Due: 
-Topics: 
-Resources: 
+- Due: 
+- Topics: 
+- Resources: 
 
 Week 9 (11/5):
 
-Due: 
-Topics: 
-Resources:  
+- Due: 
+- Topics: 
+- Resources:  
 
 ---
+  
+## Unit III. Pathos: Connecting with your audience
 
-# Unit III. Pathos: Connecting with your audience #
-
-## Major Assignments ##
+# Major Assignments
 
 - Case Presentation: Team (70 points)
 - Case Presentation: Individual (70 points)
 - Case Deck (140 points)
 
-## Weeks 10 - 14 ##
+# Weeks 10 - 14
 
 Week 10 (11/12):
 
