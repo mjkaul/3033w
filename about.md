@@ -26,7 +26,7 @@ The course meets weekly on Monday evenings, from 5:45 – 8:15 p.m, in CSOM 2-22
 
 Two books are required for the course; two others are optional:
 
-# Required
+# *Required*
 
 We’ll use these books regularly in class, so don’t just buy them, bring them to each class meeting:
 
@@ -34,7 +34,7 @@ We’ll use these books regularly in class, so don’t just buy them, bring them
 - Alan Jacobs, [*How to Think: A Survival Guide for a World at Odds*](http://howtothinkbook.com)
 - Various readings and resources that I’ll make available to you.
 
-# Optional
+# *Optional*
 
 These two basic reference books will help you throughout the semester—and long after you leave class.
 

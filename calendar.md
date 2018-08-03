@@ -48,7 +48,7 @@ permalink: /calendar/
 - Resources: 
 
 ---
-## Unit II. *Logos: Building strong arguments*
+## Unit II. *Logos: Building Strong Arguments*
 
 # Major Assignments
 
@@ -88,7 +88,7 @@ permalink: /calendar/
 - Resources:  
   
 ---
-## Unit III. *Pathos: Connecting with your audience*
+## Unit III. *Pathos: Connecting with Your Audience*
 
 # Major Assignments
 
