@@ -31,8 +31,8 @@ permalink: /calendar/
 
 **Week 2 (9/17):**
 
-- Due: **Intro Speech** (in-class); 
-- Topics: TED - evaluating ethos? plain language;
+- Due: **Intro Speech** (in-class); read TK social-media deck pages
+- Topics: TED - evaluating ethos? plain language; social-media assignment overview
 - Resources: 
 
 **Week 3 (9/24):**
@@ -43,7 +43,7 @@ permalink: /calendar/
 
 **Week 4 (10/1):**
 
-- Due: social-media decks
+- Due: **Social-Media Deck**
 - Topics: in-class social-media speeches; unit II preview; 
 - Resources: 
 
@@ -71,7 +71,7 @@ permalink: /calendar/
 
 **Week 7 (10/22):**
 
-- Due: 
+- Due: **Persuasive Speech**
 - Topics: 
 - Resources: 
 
@@ -83,7 +83,7 @@ permalink: /calendar/
 
 **Week 9 (11/5):**
 
-- Due: 
+- Due: **Timed Memo** (completed in class); read the Deloitte case-study materials
 - Topics: 
 - Resources:  
   

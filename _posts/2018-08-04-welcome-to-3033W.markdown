@@ -7,6 +7,6 @@ categories: jekyll update
 
 I’ll use this site to send you updates throughout the semester.
 
-Read the [About](/about) page for basic information about the course.
+Read the [About](/3033w/about) page for basic information about the course.
 
-Read the [Calendar](/calendar) page for the course calendar and weekly assignments.
+Read the [Calendar](/3033w/calendar) page for the course calendar and weekly assignments.
