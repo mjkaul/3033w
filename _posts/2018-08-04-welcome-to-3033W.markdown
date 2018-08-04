@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Welcome to 3033W"
+date:   2018-08-04 06:00:00 -0500
+categories: jekyll update
+---
+
+I’ll use this site to send you updates throughout the semester.
+
+Read the [About](/about) page for basic information about the course.
+
+Read the [Calendar](/calendar) page for the course calendar and weekly assignments.
