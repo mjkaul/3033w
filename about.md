@@ -13,13 +13,13 @@ The course meets weekly on Monday evenings, from 5:45 – 8:15 p.m, in CSOM 2-22
 
 
 - Instructor: Matthew Kaul (kaul0038@umn.edu)
-- TK TA: Cassidy Gobran (gobra007@umn.edu)
-- TK Slack channel
+- TA: Brooke Eshleman (eshle013@umn.edu)
+- [Slack channel](https://3033w.slack.com)
 - Section 021 LEC
 - Course meeting times: Mondays, 5:45 - 8:15 p.m.
 - Classroom: CSOM 2–228
-- TK My office: 4–131
-- TK Office hours: Thursday afternoon (exact time TBA), and by appointment
+- My office: 4–131
+- Office hours: Thursday afternoon (exact time TBA), and by appointment
  
 ---
 ## Books

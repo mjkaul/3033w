@@ -31,13 +31,13 @@ permalink: /calendar/
 
 **Week 2 (9/17):**
 
-- Due: intro speech (in-class); 
+- Due: **Intro Speech** (in-class); 
 - Topics: TED - evaluating ethos? plain language;
 - Resources: 
 
 **Week 3 (9/24):**
 
-- Due: Read SEC handbook?
+- Due: Read the SEC’s [*Plain Language Handbook*](https://www.sec.gov/pdf/handbook.pdf)
 - Topics: writing - plain language; plain-language impromptu speeches
 - Resources: 
 
