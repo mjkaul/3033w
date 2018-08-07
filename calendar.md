@@ -8,7 +8,7 @@ permalink: /calendar/
 
 - “Due” means do these things for class that day. In other words, complete them before class on the day they are listed.
 - “Topics” are the topics we’ll cover in class that day.
-- All readings are either included in the course packet (CP), linked to here, or uploaded to the course Google Drive folder.
+- All readings are either included in the course packet (CP), linked to here, or uploaded to [our section’s Google Drive folder](https://drive.google.com/drive/folders/1rRgRBVoKCMB4XZdV-NvXSEZeYJzvyY3I?usp=sharing).
 - Bring your course packet to every class.
 - The calendar is subject to change so pay attention during class and, if you miss a class meeting, email one of your colleagues (i.e. not me) to find out what you missed.
 
@@ -26,27 +26,49 @@ permalink: /calendar/
 **Week 1 (9/10):**
 
 - Due: 
-     - Read the syllabus (posted above) and this calendar
-     - read CP (course packet) 1–44
+     - Read the [syllabus](https://drive.google.com/open?id=1vNpyjoGJw1jP06kAL-B6uakANmyYGz1U) and this calendar
+     - Read [CP (course packet) 1–44](https://drive.google.com/open?id=1bICskPhWRXFQBe6z_G0RLWf4A5BTUTOp)
      - Do the self-evaluation on CP 7
-- Topics: Welcome & introductions; overview & syllabus; discuss intro speech
-- *TK Resources: post the readings for the week on Drive*
+- Topics: 
+     - Welcome & introductions
+     - Overview of syllabus & unit I
+     - Discuss intro speech; communication & storytelling
+     - Presentation skills
 
 **Week 2 (9/17):**
 
-- Due: **Intro Speech** (in-class); read TK social-media deck pages
-- Topics: TED - evaluating ethos? plain language; social-media assignment overview
-- Resources: 
+- Due: 
+     - **Intro Speech** (in-class)
+     - Read CP 45–59 & 185–200
+     - Bring CP 37–39 to class
+- Topics: 
+     - Discuss TED assignment: evaluating ethos
+     - Communication analysis
+     - Plain language intro
+     - Discuss deck & speech assignment
+- Resources:
+     - [Slack intro video #1](https://www.youtube.com/watch?time_continue=6&v=W8_tGC8pNvI) 
+     - [Slack intro video #2](https://www.youtube.com/watch?time_continue=2&v=9RJZMSsH7-g)
+     - [Slack intro video #3](https://www.youtube.com/watch?time_continue=1&v=JsX8V4hzENo)
+     - [Slack intro video #4](https://www.youtube.com/watch?time_continue=2&v=KMHg25-z6yg)
 
 **Week 3 (9/24):**
 
-- Due: Read the SEC’s [*Plain Language Handbook*](https://www.sec.gov/pdf/handbook.pdf)
-- Topics: writing - plain language; plain-language impromptu speeches
-- Resources: 
+- Due: 
+     - Read the SEC’s [*Plain Language Handbook*](https://www.sec.gov/pdf/handbook.pdf)
+     - Read *How to Think* 1–50 (intro & chapter 1)
+     - TED evaluations & speeches 
+- Topics: 
+     - Writing: plain language
+     - Plain-language impromptu speeches (in class)
+- TK Resources: 
+     - Capitalization
 
 **Week 4 (10/1):**
 
-- Due: **Social-Media Deck**
+- Due: 
+     - **Social-Media Deck**
+     
 - Topics: in-class social-media speeches; unit II preview; 
 - Resources: 
 
