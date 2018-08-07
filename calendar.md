@@ -19,15 +19,18 @@ permalink: /calendar/
 # Major Assignments
 
 - Intro Speech (40 points)
-- Social-Media Deck (200 points)
+- Social-Media Deck (100 points)
 
 # Weeks 1 - 4
 
 **Week 1 (9/10):**
 
 - Due: 
-- Topics: introductions; overview/syllabus; discuss intro speech
-- Resources: 
+     - Read the syllabus (posted above) and this calendar
+     - read CP (course packet) 1–44
+     - Do the self-evaluation on CP 7
+- Topics: Welcome & introductions; overview & syllabus; discuss intro speech
+- *TK Resources: post the readings for the week on Drive*
 
 **Week 2 (9/17):**
 
@@ -53,13 +56,13 @@ permalink: /calendar/
 # Major Assignments
 
 - Persuasive Speech (200 points)
-- Timed Memo (100 points)
+- Timed Memo (200 points)
 
 # Weeks 5 - 9
 
 **Week 5 (10/8):**
 
-- Due: 
+- Due: TED
 - Topics: 
 - Resources: 
 
@@ -100,8 +103,8 @@ permalink: /calendar/
 
 **Week 10 (11/12):**
 
-- Due: 
-- Topics: 
+- Due: Read ["The Best Presentations are Tailored to the Audience"](https://hbr.org/2015/04/the-best-presentations-are-tailored-to-the-audience)
+- Topics: Unit III overview; 
 - Resources: 
 
 **Week 11 (11/19):**
@@ -126,5 +129,5 @@ permalink: /calendar/
 
 - Due: Final team evaluation (bring CP 235-9 to class).
 - Topics: Mourn the semester’s end. Crisis communications. Course evaluations.
-- Resources: a16z podcast: Crisis communications
+- Resources: [a16z podcast on crisis communications](https://a16z.com/2017/04/13/crisis-communications-basics-mindsets/)
 - Thursday, 12/14: Deloitte case-study competition finals. Time and location TBD. The top four teams will present. Everyone is welcome to come and watch.

@@ -47,9 +47,9 @@ These two basic reference books will help you throughout the semester—and long
 # Major Assignments
 
 - Intro Speech (40 points)
-- Social-Media Deck (200 points)
+- Social-Media Deck (100 points)
 - Persuasive Speech (200 points)
-- Timed Memo (100 points)
+- Timed Memo (200 points)
 - Case Presentation: Team (70 points)
 - Case Presentation: Individual (70 points)
 - Case Deck (140 points)
