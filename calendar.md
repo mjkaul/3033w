@@ -39,10 +39,10 @@ permalink: /calendar/
 
 - Due: 
      - **Intro Speech** (in-class)
-     - Read CP 45–59 & 185–200
+     - Read CP 51–59 & 185–200
+     - Read *How to Think* 11–30 (intro)
      - Bring CP 37–39 to class
 - Topics: 
-     - Discuss TED assignment: evaluating ethos
      - Communication analysis
      - Plain language intro
      - Discuss deck & speech assignment
@@ -55,10 +55,12 @@ permalink: /calendar/
 **Week 3 (9/24):**
 
 - Due: 
+     - Intro speech self-evaluation
+     - Read CP 45–50
      - Read the SEC’s [*Plain Language Handbook*](https://www.sec.gov/pdf/handbook.pdf)
-     - Read *How to Think* 1–50 (intro & chapter 1)
-     - TED evaluations & speeches 
+     - Read *How to Think* 31–50 (ch. 1)
 - Topics: 
+     - Discuss TED assignment: evaluating ethos
      - Writing: plain language
      - Plain-language impromptu speeches (in class)
 - TK Resources: 
@@ -67,9 +69,12 @@ permalink: /calendar/
 **Week 4 (10/1):**
 
 - Due: 
-     - **Social-Media Deck**
-     
-- Topics: in-class social-media speeches; unit II preview; 
+     - TED evaluations (turn in) & speeches (in class)
+     - Read *How to Think* 51–70 (ch. 2)
+- Topics: 
+     - Give TED speeches in small groups / write peer speech critiques
+     - Writing: understanding common errors
+     - Social media decks & speeches: answer questions
 - Resources: 
 
 ---
@@ -84,14 +89,29 @@ permalink: /calendar/
 
 **Week 5 (10/8):**
 
-- Due: TED
+- Due:  
+     - **Social-Media Deck**
+     - Read CP 62–92
 - Topics: 
+     - In-class social-media speeches
+     - Unit II introduction
+     - Persuasion
+     - Persuasive-speech assignment overview
 - Resources: 
 
 **Week 6 (10/15)**
 
 - Due: 
+     - CP 65
+     - Bring your laptops to class today
+     - Read *How to Think* 71–88 (ch. 3)
+     - Read CP 91–116
+     - Sign up for a persuasive speech time
 - Topics: 
+     - CP 115 (in-class work)
+     - Take-away documents
+     - Persuasive speech assignment - time for questions
+     - Visual aids & PowerPoint
 - Resources: 
 
 **Week 7 (10/22):**
@@ -100,15 +120,21 @@ permalink: /calendar/
 - Topics: 
 - Resources: 
 
+**Persuasive Speech Sessions (10/25–26):**
+
+
+
 **Week 8 (10/29):**
 
 - Due: 
+     - Read *How to Think* 89–112 (ch. 4)
 - Topics: 
 - Resources: 
 
 **Week 9 (11/5):**
 
 - Due: **Timed Memo** (completed in class); read the Deloitte case-study materials
+     - Read *How to Think* 113–124 (ch. 5)
 - Topics: 
 - Resources:  
   
@@ -125,13 +151,17 @@ permalink: /calendar/
 
 **Week 10 (11/12):**
 
-- Due: Read ["The Best Presentations are Tailored to the Audience"](https://hbr.org/2015/04/the-best-presentations-are-tailored-to-the-audience)
+- Due: 
+     - Read ["The Best Presentations are Tailored to the Audience"](https://hbr.org/2015/04/the-best-presentations-are-tailored-to-the-audience)
+     - Read *How to Think* 125–138 (ch. 6)
 - Topics: Unit III overview; 
 - Resources: 
 
 **Week 11 (11/19):**
 
 - Due: 
+     - Read *How to Think* 139–end (ch. 7, conclusion, & afterword)
+
 - Topics: 
 - Resources: 
 
