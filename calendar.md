@@ -61,8 +61,9 @@ permalink: /calendar/
      - Read *How to Think* 31–50 (ch. 1)
 - Topics: 
      - Discuss TED assignment: evaluating ethos
-     - Writing: plain language
+     - Writing: plain language in business writing
      - Plain-language impromptu speeches (in class)
+     - Document design
 - TK Resources: 
      - Capitalization
 
@@ -71,10 +72,11 @@ permalink: /calendar/
 - Due: 
      - TED evaluations (turn in) & speeches (in class)
      - Read *How to Think* 51–70 (ch. 2)
+     - Read CP 142–52; do the headings practice on CP 151–52 & turn it in
 - Topics: 
      - Give TED speeches in small groups / write peer speech critiques
-     - Writing: understanding common errors
      - Social media decks & speeches: answer questions
+     - Headings
 - Resources: 
 
 ---
@@ -90,8 +92,10 @@ permalink: /calendar/
 **Week 5 (10/8):**
 
 - Due:  
-     - **Social-Media Deck**
+     - **Social-Media Deck** (CP 186ff; email your deck and word count to me before class begins)
      - Read CP 62–92
+     - Deck speech
+     - Deck-speech peer critiques (in class; see instructions on CP 195; bring peer critique forms on CP 197 & 199)
 - Topics: 
      - In-class social-media speeches
      - Unit II introduction
@@ -106,38 +110,89 @@ permalink: /calendar/
      - Bring your laptops to class today
      - Read *How to Think* 71–88 (ch. 3)
      - Read CP 91–116
-     - Sign up for a persuasive speech time
+     - TK Sign up for a persuasive speech time (Drive)
+     - Take a look at the deck samples and PowerPoint alternatives posted below 
 - Topics: 
      - CP 115 (in-class work)
      - Take-away documents
      - Persuasive speech assignment - time for questions
      - Visual aids & PowerPoint
-- Resources: 
+- Resources: Free Stock Photos
+     - [Pexels](https://www.pexels.com)
+     - [Unsplash](https://unsplash.com)
+     - TK deck samples (Drive)
 
 **Week 7 (10/22):**
 
-- Due: **Persuasive Speech**
+- Due:
+     - Read CP 117–41, 185-200
+     - Complete CP 132: revise and fix all errors
+     - Take a look at the deck samples and PowerPoint alternatives posted below 
 - Topics: 
+     - Meetings
+     - Writing: grammar & mechanics; citations
+     - Visual aids: alternatives to the status quo 
 - Resources: 
+     - Erin Kissane, “Ideas Worth Stealing” (example of a non-traditional visual aid)
+     - [Prezi](https://prezi.com)
+     - [Edward Tufte Hates PowerPoint](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB&topic_id=1)
+     - [Austin Kleon Loves Edward Tufte](https://austinkleon.com/tag/edward-tufte/)
+     - [Canva](https://www.canva.com) - good for creating non-traditional slides, social media images, etc.
 
-**Persuasive Speech Sessions (10/25–26):**
 
+**Thursday, 10/25, 4–8 p.m.**
 
+- Persuasive speech lab session
+- For your persuasive speech, bring the following: 
+     - Copies of your take-away document for me & your peers
+     - Your slides (emailed or on a flash drive)
+     - CP 67–73
+
+**Friday, 10/26, 9–4 p.m.**
+
+- Persuasive speech lab session
+- For your persuasive speech, bring the following: 
+     - Copies of your take-away document for me & your peers
+     - Your slides (emailed or on a flash drive)
+     - CP 67–73
 
 **Week 8 (10/29):**
 
 - Due: 
      - Read *How to Think* 89–112 (ch. 4)
-- Topics: 
+     - TK Read the Deloitte case-study materials (Drive)
+     - Read CP 153–80 & 201–22
+ - Topics: 
+     - Give me your Deloitte team preferences
+     - Business communications: memos, email, voicemail, forms, etc.
+     - Deloitte case-study project introduction
 - Resources: 
 
 **Week 9 (11/5):**
 
-- Due: **Timed Memo** (completed in class); read the Deloitte case-study materials
+- Due: 
+     - **Timed Memo** (completed in class; *you cannot make this up if you miss class*)
+     - Persuasive speech self-evaluation (either email to me before class or turn in at the beginning of class)
+     - Bring your laptops to class today
+     - Bring CP 171
      - Read *How to Think* 113–124 (ch. 5)
+     - Re-read CP 203–22
+     - Skim the proposal samples posted below
 - Topics: 
+     - Timed Memos
+     - Unit III overview
+     - Deloitte team meeting
+     - Deloitte proposal writing
 - Resources:  
-  
+     - TK Deloitte sample decks (Drive)
+
+**TK Date/time TBD**
+
+Deloitte guest speakers:
+
+- 4–5 pm, 3M Auditorium
+- At least one member of each team must attend. (The more the merrier!)
+
 ---
 ## Unit III. *Pathos: Connecting with Your Audience*
 
@@ -154,32 +209,79 @@ permalink: /calendar/
 - Due: 
      - Read ["The Best Presentations are Tailored to the Audience"](https://hbr.org/2015/04/the-best-presentations-are-tailored-to-the-audience)
      - Read *How to Think* 125–138 (ch. 6)
-- Topics: Unit III overview; 
+     - Email your team Deloitte proposal draft to me by 3:30 pm
+          - Only one email per group, please!
+          - Include your team name and your team members’ names
+          - Make sure that each of you brings a copy of your proposal draft to class
+     - Prepare comments and questions for your meeting with me
+     - Sign up for a meeting time on the wiki below
+- Topics: 
+    - Deloitte team meetings with me in the classroom
 - Resources: 
+     - Group Meeting Sign-Up Wiki
+     - Sample Proposal 1 
+     - Sample Proposal 2 
+     - Target Proposals Deck File resource
+     - Elements of Strong Deck Proposals - week 9 slides File resource
+     
+**Friday, 11/23**
+
+Due:
+
+- Deloitte proposal deck—draft 1 (email to me by noon today)
 
 **Week 11 (11/19):**
 
 - Due: 
      - Read *How to Think* 139–end (ch. 7, conclusion, & afterword)
-
+     - Review CP 216-20
+     - Read CP 223-34
+     - Take a look at the example graphs posted below
+     - Mid-project team evaluation (CP 233-4 and below)
 - Topics: 
-- Resources: 
+     - Overview of basic grammar problems
+     - Deloitte proposal writing and graphics
+     - Deloitte team meetings and proposal writing
+- TK Resources:
+     - Mid-project Team Evaluation File resource
+     - Example Graphs File resource
+     - Graphics: What Works and What Doesn't (slides from class) File resource 
 
 **Week 12 (11/26):**
 
 - Due: 
+     - Read CP 223-29
+     - Final written Deloitte proposal due to me via email before class starts
 - Topics: 
+     - Deloitte presentation information
+     - Work on Deloitte presentations
+     - Bring a draft of your slides
 - Resources: 
 
 **Week 13 (12/3):**
 
 - Due: 
+     - Bring CP 231-2
+     - Sign up for a presentation time on the wiki below
 - Topics: 
-- Resources:  
+     - Deloitte presentations
+- TK Resources:  
+     - Deloitte Group-Presentation Order Wiki
 
 **Week 14 (12/10; 12/14):**
 
-- Due: Final team evaluation (bring CP 235-9 to class).
-- Topics: Mourn the semester’s end. Crisis communications. Course evaluations.
-- Resources: [a16z podcast on crisis communications](https://a16z.com/2017/04/13/crisis-communications-basics-mindsets/)
-- Thursday, 12/14: Deloitte case-study competition finals. Time and location TBD. The top four teams will present. Everyone is welcome to come and watch.
+- Due: 
+     - Final team evaluation (bring CP 235-9 to class)
+- Topics: 
+     - Mourn the semester’s end
+     - Crisis communications
+     - Crisis impromptus
+     - Course evaluations.
+- Resources: 
+     - [a16z podcast on crisis communications](https://a16z.com/2017/04/13/crisis-communications-basics-mindsets/)
+
+**Thursday, 12/14:** 
+
+- Deloitte case-study competition finals
+- Time and location TBD
+- The top four teams will present. Everyone is welcome to come and watch.
