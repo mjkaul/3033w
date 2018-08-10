@@ -284,4 +284,5 @@ Due:
 
 - Deloitte case-study competition finals
 - Time and location TBD
+- testing
 - The top four teams will present. Everyone is welcome to come and watch.
