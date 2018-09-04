@@ -26,8 +26,8 @@ permalink: /calendar/
 **Week 1 (9/10):**
 
 - Due: 
-     - Read the [syllabus](https://drive.google.com/open?id=1vNpyjoGJw1jP06kAL-B6uakANmyYGz1U) and this calendar
-     - Read [CP (course packet) 1–44](https://drive.google.com/open?id=1bICskPhWRXFQBe6z_G0RLWf4A5BTUTOp)
+     - Read the [syllabus](http://mjkaul.github.io/3033w/files/syllabus-f18.pdf) and this calendar
+     - Read [CP (course packet) 1–44](http://mjkaul.github.io/3033w/files/reading-f18-w1.pdf)
      - Do the self-evaluation on CP 7
 - Topics: 
      - Welcome & introductions
