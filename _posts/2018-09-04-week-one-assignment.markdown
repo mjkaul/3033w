@@ -10,7 +10,7 @@ Welcome to 3033W: Business Communications. I look forward to meeting each of you
 Your assignment for Monday's class is two-fold:
 
 1. Purchase the two required texts for the course: the course packet (*make sure you get one with my name on it; they're not all the same*) and Alan Jacobs's book *How to Think: A Survival Guide for a World at Odds*. 
-2. Read the syllabus and pages 1-44 in your course packet. These readings will be in our shared Drive folder, which you should have access to soon.
+2. Read the [syllabus](http://mjkaul.github.io/3033w/files/syllabus-f18.pdf) and [pages 1-44 in your course packet](http://mjkaul.github.io/3033w/files/reading-f18-w1.pdf).
 
 Email me if you have any questions: kaul0038@umn.edu
 
