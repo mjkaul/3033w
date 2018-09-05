@@ -39,6 +39,7 @@ permalink: /calendar/
 
 - Due: 
      - **Intro Speech** (in-class)
+          - Re-read CP 33–44 as you prepare
      - Read CP 51–59 & 185–200
      - Read *How to Think* 11–30 (intro)
      - Bring CP 37–39 to class
