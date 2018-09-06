@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Course Packets Delayed"
-date:   2018-09-06 06:30:00 -0500
+date:   2018-09-06 06:30:00 -0600
 categories: assignment
 ---
 
