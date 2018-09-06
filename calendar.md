@@ -187,7 +187,7 @@ permalink: /calendar/
 - Resources:  
      - TK Deloitte sample decks (Drive)
 
-**TK Date/time TBD**
+**Tuesday, 11/6**
 
 Deloitte guest speakers:
 
