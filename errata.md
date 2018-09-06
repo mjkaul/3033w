@@ -10,4 +10,4 @@ If you find any errors, please let me know. I’ll add them here and fix them fo
 
 ---
 
-- p. 11 – unnecessary spaced between “less-” and “conscious”
+- p. 11 – unnecessary space between “less-” and “conscious”
