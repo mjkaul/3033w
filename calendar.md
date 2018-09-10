@@ -144,6 +144,7 @@ permalink: /calendar/
 **Thursday, 10/25, 4–8 p.m.**
 
 - Persuasive speech lab session
+- Meet in Hanson Hall, L-132
 - For your persuasive speech, bring the following: 
      - Copies of your take-away document for me & your peers
      - Your slides (emailed or on a flash drive)
@@ -152,6 +153,7 @@ permalink: /calendar/
 **Friday, 10/26, 9–4 p.m.**
 
 - Persuasive speech lab session
+- Meet in Hanson Hall, L-132
 - For your persuasive speech, bring the following: 
      - Copies of your take-away document for me & your peers
      - Your slides (emailed or on a flash drive)
