@@ -46,12 +46,7 @@ permalink: /calendar/
 - Topics: 
      - Communication analysis
      - Plain language intro
-     - Discuss deck & speech assignment
-- Resources:
-     - [Slack intro video #1](https://www.youtube.com/watch?time_continue=6&v=W8_tGC8pNvI) 
-     - [Slack intro video #2](https://www.youtube.com/watch?time_continue=2&v=9RJZMSsH7-g)
-     - [Slack intro video #3](https://www.youtube.com/watch?time_continue=1&v=JsX8V4hzENo)
-     - [Slack intro video #4](https://www.youtube.com/watch?time_continue=2&v=KMHg25-z6yg)
+     - Discuss upcoming assignments: deck/speech & TED presentation
 
 **Week 3 (9/24):**
 
@@ -65,19 +60,18 @@ permalink: /calendar/
      - Writing: plain language in business writing
      - Plain-language impromptu speeches (in class)
      - Document design
-- TK Resources: 
-     - Capitalization
+     - Grammar minute: Capitalization
 
 **Week 4 (10/1):**
 
 - Due: 
      - TED evaluations (turn in) & speeches (in class)
      - Read *How to Think* 51–70 (ch. 2)
-     - Read CP 142–52; do the headings practice on CP 151–52 & turn it in
+     - Read CP 95–116
 - Topics: 
      - Give TED speeches in small groups / write peer speech critiques
-     - Social media decks & speeches: answer questions
-     - Headings
+     - Visual aids, PowerPoint, & slide design
+     - Discuss social media decks & speeches; answer questions
 - Resources: 
 
 ---
@@ -94,7 +88,7 @@ permalink: /calendar/
 
 - Due:  
      - **Social-Media Deck** (CP 186ff; email your deck and word count to me before class begins)
-     - Read CP 62–92
+     - Read CP 62–94 *(Note: CP 65 is due next week, not today)*
      - Deck speech
      - Deck-speech peer critiques (in class; see instructions on CP 195; bring peer critique forms on CP 197 & 199)
 - Topics: 
@@ -110,14 +104,12 @@ permalink: /calendar/
      - CP 65
      - Bring your laptops to class today
      - Read *How to Think* 71–88 (ch. 3)
-     - Read CP 91–116
      - TK Sign up for a persuasive speech time (Drive)
      - Take a look at the deck samples and PowerPoint alternatives posted below 
 - Topics: 
      - CP 115 (in-class work)
      - Take-away documents
      - Persuasive speech assignment - time for questions
-     - Visual aids & PowerPoint
 - Resources: Free Stock Photos
      - [Pexels](https://www.pexels.com)
      - [Unsplash](https://unsplash.com)
@@ -128,10 +120,12 @@ permalink: /calendar/
 - Due:
      - Read CP 117–41, 185-200
      - Complete CP 132: revise and fix all errors
+     - Read CP 142–52; do the headings practice on CP 151–52 & turn it in
      - Take a look at the deck samples and PowerPoint alternatives posted below 
 - Topics: 
      - Meetings
      - Writing: grammar & mechanics; citations
+     - Headings
      - Visual aids: alternatives to the status quo 
 - Resources: 
      - Erin Kissane, “Ideas Worth Stealing” (example of a non-traditional visual aid)
