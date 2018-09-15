@@ -23,24 +23,24 @@ permalink: /calendar/
 
 # Weeks 1 - 4
 
-**Week 1 (9/10):**
+~~**Week 1 (9/10):**~~
 
-- Due: 
-     - Read the [syllabus](http://mjkaul.github.io/3033w/files/syllabus-f18.pdf) and this calendar
-     - Read [CP (course packet) 1–44](http://mjkaul.github.io/3033w/files/reading-f18-w1.pdf)
-     - Do the self-evaluation on CP 7
-- Topics: 
-     - Welcome & introductions
-     - Overview of syllabus & unit I
-     - Discuss intro speech; communication & storytelling
-     - Presentation skills
+- ~~Due:~~
+     - ~~Read the [syllabus](http://mjkaul.github.io/3033w/files/syllabus-f18.pdf) and this calendar~~
+     - ~~Read [CP (course packet) 1–44](http://mjkaul.github.io/3033w/files/reading-f18-w1.pdf)~~
+     - ~~Do the self-evaluation on CP 7~~
+- ~~Topics:~~
+     - ~~Welcome & introductions~~
+     - ~~Overview of syllabus & unit I~~
+     - ~~Discuss intro speech; communication & storytelling~~
+     - ~~Presentation skills~~
 
 **Week 2 (9/17):**
 
 - Due: 
      - **Intro Speech** (in-class)
           - Re-read CP 33–44 as you prepare
-     - Read [CP 51–59 & 185–200](http://mjkaul.github.io/3033w/files/reading-f18-w2.pdf)
+     - Read [CP 51–59 & 180–200](http://mjkaul.github.io/3033w/files/reading-f18-w2.pdf)
      - Read *How to Think* 11–30 (intro)
      - Bring CP 37–39 to class
 - Topics: 
