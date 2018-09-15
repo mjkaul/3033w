@@ -10,6 +10,7 @@ If you find any errors, please let me know. I’ll add them here and fix them fo
 
 ---
 
+- p. 1 – the dates for TED and deck assignments should be switched: the TED row is due on 10/1; the deck and deck speech rows are due on 10/8
 - p. 11 – unnecessary space between “less-” and “conscious”
 - p. 22 – change the en dash to an em dash in bullet two of the “Be positive and polite” section
 - p. 33 – inconsistent spacing between “2” and “3” in both instances 
