@@ -53,7 +53,7 @@ permalink: /calendar/
 - Due: 
      - Intro speech self-evaluation
      - Read CP 45–50
-     - Read the SEC’s [*Plain Language Handbook*](https://www.sec.gov/pdf/handbook.pdf)
+     - Read the SEC’s [*Plain Language Handbook*](http://mjkaul.github.io/3033w/files/handbook.pdf)
      - Read *How to Think* 31–50 (ch. 1)
 - Topics: 
      - Discuss TED assignment: evaluating ethos
