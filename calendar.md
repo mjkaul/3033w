@@ -60,7 +60,6 @@ permalink: /calendar/
      - Writing: plain language in business writing
      - Plain-language impromptu speeches (in class)
      - Document design
-     - Grammar minute: Capitalization
 
 **Week 4 (10/1):**
 
@@ -72,7 +71,7 @@ permalink: /calendar/
      - Give TED speeches in small groups / write peer speech critiques
      - Visual aids, PowerPoint, & slide design
      - Discuss social media decks & speeches; answer questions
-- Resources: 
+     - Grammar minute: Capitalization
 
 ---
 ## Unit II. *Logos: Building Strong Arguments*
