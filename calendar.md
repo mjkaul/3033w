@@ -35,18 +35,18 @@ permalink: /calendar/
      - ~~Discuss intro speech; communication & storytelling~~
      - ~~Presentation skills~~
 
-**Week 2 (9/17):**
+~~**Week 2 (9/17):**~~
 
-- Due: 
-     - **Intro Speech** (in-class)
-          - Re-read CP 33–44 as you prepare
-     - Read [CP 51–59 & 185–200](http://mjkaul.github.io/3033w/files/reading-f18-w2.pdf)
-     - Read *How to Think* 11–30 (intro)
-     - Bring CP 37–39 to class
-- Topics: 
-     - Communication analysis
-     - Plain language intro
-     - Discuss upcoming assignments: deck/speech & TED presentation
+- ~~Due:~~
+     - ~~**Intro Speech** (in-class)~~
+          - ~~Re-read CP 33–44 as you prepare~~
+     - ~~Read [CP 51–59 & 185–200](http://mjkaul.github.io/3033w/files/reading-f18-w2.pdf)~~
+     - ~~Read *How to Think* 11–30 (intro)~~
+     - ~~Bring CP 37–39 to class~~
+- ~~Topics:~~
+     - ~~Communication analysis~~
+     - ~~Plain language intro~~
+     - ~~Discuss upcoming assignments: deck/speech & TED presentation~~
 
 **Week 3 (9/24):**
 
