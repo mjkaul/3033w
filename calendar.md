@@ -117,12 +117,12 @@ permalink: /calendar/
 **Week 7 (10/22):**
 
 - Due:
-     - Read CP 117–41, 185-200
+     - Read CP 117–32, 185-200
      - Complete CP 132: revise and fix all errors
      - Read CP 142–52; do the headings practice on CP 151–52 & turn it in
      - Take a look at the deck samples and PowerPoint alternatives posted below 
 - Topics: 
-     - Meetings
+     - ~~Meetings~~
      - Writing: grammar & mechanics; citations
      - Headings
      - Visual aids: alternatives to the status quo 
