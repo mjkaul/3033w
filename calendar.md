@@ -50,16 +50,16 @@ permalink: /calendar/
 
 **Week 3 (9/24):**
 
-- Due: 
-     - Intro speech self-evaluation
-     - Read CP 45–50
-     - Read the SEC’s [*Plain Language Handbook*](http://mjkaul.github.io/3033w/files/handbook.pdf)
-     - Read *How to Think* 31–50 (ch. 1)
-- Topics: 
-     - Discuss TED assignment: evaluating ethos
-     - Writing: plain language in business writing
-     - Plain-language impromptu speeches (in class)
-     - Document design
+- ~~Due:~~ 
+     - ~~Intro speech self-evaluation~~
+     - ~~Read CP 45–50~~
+     - ~~Read the SEC’s [*Plain Language Handbook*](http://mjkaul.github.io/3033w/files/handbook.pdf)~~
+     - ~~Read *How to Think* 31–50 (ch. 1)~~
+- ~~Topics:~~
+     - ~~Discuss TED assignment: evaluating ethos~~
+     - ~~Writing: plain language in business writing~~
+     - ~~Plain-language impromptu speeches (in class)~~
+     - ~~Document design~~
 
 **Week 4 (10/1):**
 
