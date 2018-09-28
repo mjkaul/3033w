@@ -48,7 +48,7 @@ permalink: /calendar/
      - ~~Plain language intro~~
      - ~~Discuss upcoming assignments: deck/speech & TED presentation~~
 
-**Week 3 (9/24):**
+~~**Week 3 (9/24):**~~
 
 - ~~Due:~~ 
      - ~~Intro speech self-evaluation~~
@@ -67,6 +67,7 @@ permalink: /calendar/
      - TED evaluations (turn in) & speeches (in class)
      - Read *How to Think* 51–70 (ch. 2)
      - Read CP 95–116
+     - Look through the deck sample posted on Canvas
 - Topics: 
      - Give TED speeches in small groups / write peer speech critiques
      - Visual aids, PowerPoint, & slide design
@@ -95,7 +96,6 @@ permalink: /calendar/
      - Unit II introduction
      - Persuasion
      - Persuasive-speech assignment overview
-- Resources: 
 
 **Week 6 (10/15)**
 
@@ -103,7 +103,7 @@ permalink: /calendar/
      - CP 65
      - Bring your laptops to class today
      - Read *How to Think* 71–88 (ch. 3)
-     - TK Sign up for a persuasive speech time (Drive)
+     - Sign up for a persuasive speech time (Canvas)
      - Take a look at the deck samples and PowerPoint alternatives posted below 
 - Topics: 
      - CP 115 (in-class work)
@@ -112,7 +112,6 @@ permalink: /calendar/
 - Resources: Free Stock Photos
      - [Pexels](https://www.pexels.com)
      - [Unsplash](https://unsplash.com)
-     - TK deck samples (Drive)
 
 **Week 7 (10/22):**
 
@@ -122,7 +121,6 @@ permalink: /calendar/
      - Read CP 142–52; do the headings practice on CP 151–52 & turn it in
      - Take a look at the deck samples and PowerPoint alternatives posted below 
 - Topics: 
-     - ~~Meetings~~
      - Writing: grammar & mechanics; citations
      - Headings
      - Visual aids: alternatives to the status quo 
@@ -156,13 +154,12 @@ permalink: /calendar/
 
 - Due: 
      - Read *How to Think* 89–112 (ch. 4)
-     - TK Read the Deloitte case-study materials (Drive)
+     - Read the Deloitte case-study materials (Canvas)
      - Read CP 153–80 & 201–22
  - Topics: 
      - Give me your Deloitte team preferences
      - Business communications: memos, email, voicemail, forms, etc.
      - Deloitte case-study project introduction
-- Resources: 
 
 **Week 9 (11/5):**
 
@@ -179,8 +176,6 @@ permalink: /calendar/
      - Unit III overview
      - Deloitte team meeting
      - Deloitte proposal writing
-- Resources:  
-     - TK Deloitte sample decks (Drive)
 
 **Tuesday, 11/6**
 
@@ -213,12 +208,10 @@ Deloitte guest speakers:
      - Sign up for a meeting time on the wiki below
 - Topics: 
     - Deloitte team meetings with me in the classroom
-- Resources: 
-     - Group Meeting Sign-Up Wiki
-     - Sample Proposal 1 
-     - Sample Proposal 2 
-     - Target Proposals Deck File resource
-     - Elements of Strong Deck Proposals - week 9 slides File resource
+- Resources on Canvas: 
+     - Group Meeting Sign-Up Form
+     - Sample Proposals
+     - Elements of Strong Deck Proposals - week 9 slides
      
 **Friday, 11/23**
 
@@ -238,7 +231,7 @@ Due:
      - Overview of basic grammar problems
      - Deloitte proposal writing and graphics
      - Deloitte team meetings and proposal writing
-- TK Resources:
+- Resources on Canvas:
      - Mid-project Team Evaluation File resource
      - Example Graphs File resource
      - Graphics: What Works and What Doesn't (slides from class) File resource 
@@ -252,7 +245,6 @@ Due:
      - Deloitte presentation information
      - Work on Deloitte presentations
      - Bring a draft of your slides
-- Resources: 
 
 **Week 13 (12/3):**
 
@@ -261,8 +253,8 @@ Due:
      - Sign up for a presentation time on the wiki below
 - Topics: 
      - Deloitte presentations
-- TK Resources:  
-     - Deloitte Group-Presentation Order Wiki
+- Resources on Canvas:  
+     - Presentation Order Sign-Up Form
 
 **Week 14 (12/10; 12/14):**
 
@@ -272,7 +264,7 @@ Due:
      - Mourn the semester’s end
      - Crisis communications
      - Crisis impromptus
-     - Course evaluations.
+     - Course evaluations
 - Resources: 
      - [a16z podcast on crisis communications](https://a16z.com/2017/04/13/crisis-communications-basics-mindsets/)
 
