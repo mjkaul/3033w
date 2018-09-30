@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bring laptops this week (10/1)"
-date:   2018-09-30 11:25:00 -0500
+date:   2018-09-30 15:25:00 -0500
 categories: class
 ---
 
