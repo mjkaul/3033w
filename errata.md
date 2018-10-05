@@ -14,4 +14,5 @@ If you find any errors, please let me know. I’ll add them here and fix them fo
 - p. 11 – unnecessary space between “less-” and “conscious”
 - p. 22 – change the en dash to an em dash in bullet two of the “Be positive and polite” section
 - p. 33 – inconsistent spacing between “2” and “3” in both instances 
+- p. 88-89 – conclusion to sample proof is not supported by the latest [evidence](https://jamanetwork.com/journals/jama/fullarticle/2667071)
 - p. 141 – topic 7 is missing a “4” after “13”; update the list with the topics from the F18 worksheet
