@@ -61,18 +61,18 @@ permalink: /calendar/
      - ~~Plain-language impromptu speeches (in class)~~
      - ~~Document design~~
 
-**Week 4 (10/1):**
+~~**Week 4 (10/1):**~~
 
-- Due: 
-     - TED evaluations (turn in) & speeches (in class)
-     - Read *How to Think* 51–70 (ch. 2)
-     - Read CP 95–116
-     - Look through the deck sample posted on Canvas
-- Topics: 
-     - Give TED speeches in small groups / write peer speech critiques
-     - Visual aids, PowerPoint, & slide design
-     - Discuss social media decks & speeches; answer questions
-     - Grammar minute: Capitalization
+- ~~Due:~~ 
+     - ~~TED evaluations (turn in) & speeches (in class)~~
+     - ~~Read *How to Think* 51–70 (ch. 2)~~
+     - ~~Read CP 95–116~~
+     - ~~Look through the deck sample posted on Canvas~~
+- ~~Topics:~~
+     - ~~Give TED speeches in small groups / write peer speech critiques~~
+     - ~~Visual aids, PowerPoint, & slide design~~
+     - ~~Discuss social media decks & speeches; answer questions~~
+     - ~~Grammar minute: Capitalization~~
 
 ---
 ## Unit II. *Logos: Building Strong Arguments*
@@ -84,18 +84,18 @@ permalink: /calendar/
 
 # Weeks 5 - 9
 
-**Week 5 (10/8):**
+~~**Week 5 (10/8):**~~
 
-- Due:  
-     - **Social-Media Deck** (CP 186ff; email your deck and word count to me before class begins)
-     - Read CP 62–94 *(Note: CP 65 is due next week, not today)*
-     - Deck speech
-     - Deck-speech peer critiques (in class; see instructions on CP 195; bring peer critique forms on CP 197 & 199)
-- Topics: 
-     - In-class social-media speeches
-     - Unit II introduction
-     - Persuasion
-     - Persuasive-speech assignment overview
+- ~~Due:~~ 
+     - ~~**Social-Media Deck** (CP 186ff; email your deck and word count to me before class begins)~~
+     - ~~Read CP 62–94 *(Note: CP 65 is due next week, not today)*~~
+     - ~~Deck speech~~
+     - ~~Deck-speech peer critiques (in class; see instructions on CP 195; bring peer critique forms on CP 197 & 199)~~
+- ~~Topics:~~ 
+     - ~~In-class social-media speeches~~
+     - ~~Unit II introduction~~
+     - ~~Persuasion~~
+     - ~~Persuasive-speech assignment overview~~
 
 **Week 6 (10/15)**
 
