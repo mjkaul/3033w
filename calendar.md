@@ -97,26 +97,26 @@ permalink: /calendar/
      - ~~Persuasion~~
      - ~~Persuasive-speech assignment overview~~
 
-**Week 6 (10/15)**
+~~**Week 6 (10/15)**~~
 
-- Due: 
-     - CP 65
-     - Bring your laptops to class today
-     - Read *How to Think* 71–88 (ch. 3)
-     - Sign up for a persuasive speech time (Canvas)
-     - Take a look at the deck samples and PowerPoint alternatives posted below 
-- Topics: 
-     - CP 115 (in-class work)
-     - Take-away documents
-     - Persuasive speech assignment - time for questions
-- Resources: Free Stock Photos
-     - [Pexels](https://www.pexels.com)
-     - [Unsplash](https://unsplash.com)
+- ~~Due: ~~
+     - ~~CP 65~~
+     - ~~Bring your laptops to class today~~
+     - ~~Read *How to Think* 71–88 (ch. 3)~~
+     - ~~Sign up for a persuasive speech time (Canvas)~~
+     - ~~Take a look at the deck samples and PowerPoint alternatives posted below ~~
+- ~~Topics:~~
+     - ~~CP 115 (in-class work)~~
+     - ~~Take-away documents~~
+     - ~~Persuasive speech assignment - time for questions~~
+- ~~Resources: Free Stock Photos~~
+     - ~~[Pexels](https://www.pexels.com)~~
+     - ~~[Unsplash](https://unsplash.com)~~
 
 **Week 7 (10/22):**
 
 - Due:
-     - Read CP 117–32, 185-200
+     - Read CP 117–32
      - Complete CP 132: revise and fix all errors
      - Read CP 142–52; do the headings practice on CP 151–52 & turn it in
      - Take a look at the deck samples and PowerPoint alternatives posted below 
