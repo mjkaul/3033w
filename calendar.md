@@ -118,7 +118,7 @@ permalink: /calendar/
 - Due:
      - Read CP 117–32
      - Complete CP 132: revise and fix all errors
-     - Read CP 142–52; do the headings practice on CP 151–52 & turn it in
+     - Read CP 142–52; do the headings practice on CP 151–52 (you’ll turn this in)
      - Take a look at the deck samples and PowerPoint alternatives posted below 
 - Topics: 
      - Writing: grammar & mechanics; citations
