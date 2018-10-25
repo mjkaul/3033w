@@ -113,24 +113,23 @@ permalink: /calendar/
      - ~~[Pexels](https://www.pexels.com)~~
      - ~~[Unsplash](https://unsplash.com)~~
 
-**Week 7 (10/22):**
+~~**Week 7 (10/22):**~~
 
-- Due:
-     - Read CP 117–32
-     - Complete CP 132: revise and fix all errors
-     - Read CP 142–52; do the headings practice on CP 151–52 (you’ll turn this in)
-     - Take a look at the deck samples and PowerPoint alternatives posted below 
-- Topics: 
-     - Writing: grammar & mechanics; citations
-     - Headings
-     - Visual aids: alternatives to the status quo 
-- Resources: 
-     - Erin Kissane, “Ideas Worth Stealing” (example of a non-traditional visual aid)
-     - [Prezi](https://prezi.com)
-     - [Edward Tufte Hates PowerPoint](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB&topic_id=1)
-     - [Austin Kleon Loves Edward Tufte](https://austinkleon.com/tag/edward-tufte/)
-     - [Canva](https://www.canva.com) - good for creating non-traditional slides, social media images, etc.
-
+- ~~Due:~~
+     - ~~Read CP 117–32~~
+     - ~~Complete CP 132: revise and fix all errors~~
+     - ~~Read CP 142–52; do the headings practice on CP 151–52 (you’ll turn this in)~~
+     - ~~Take a look at the deck samples and PowerPoint alternatives posted below~~
+- ~~Topics:~~ 
+     - ~~Writing: grammar & mechanics; citations~~
+     - ~~Headings~~
+     - ~~Visual aids: alternatives to the status quo~~
+- ~~Resources:~~ 
+     - ~~Erin Kissane, “Ideas Worth Stealing” (example of a non-traditional visual aid)~~
+     - ~~[Prezi](https://prezi.com)~~
+     - ~~[Edward Tufte Hates PowerPoint](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB&topic_id=1)~~
+     - ~~[Austin Kleon Loves Edward Tufte](https://austinkleon.com/tag/edward-tufte/)~~
+     - ~~[Canva](https://www.canva.com) - good for creating non-traditional slides, social media images, etc.~~
 
 **Thursday, 10/25, 4–8 p.m.**
 
