@@ -131,23 +131,23 @@ permalink: /calendar/
      - ~~[Austin Kleon Loves Edward Tufte](https://austinkleon.com/tag/edward-tufte/)~~
      - ~~[Canva](https://www.canva.com) - good for creating non-traditional slides, social media images, etc.~~
 
-**Thursday, 10/25, 4–8 p.m.**
+~~**Thursday, 10/25, 4–8 p.m.**~~
 
-- Persuasive speech lab session
-- Meet in Hanson Hall, L-132
-- For your persuasive speech, bring the following: 
-     - Copies of your take-away document for me & your peers
-     - Your slides (emailed or on a flash drive)
-     - CP 67–73
+- ~~Persuasive speech lab session~~
+- ~~Meet in Hanson Hall, L-132~~
+- ~~For your persuasive speech, bring the following:~~
+     - ~~Copies of your take-away document for me & your peers~~
+     - ~~Your slides (emailed or on a flash drive)~~
+     - ~~CP 67–73~~
 
-**Friday, 10/26, 9–4 p.m.**
+~~**Friday, 10/26, 9–4 p.m.**~~
 
-- Persuasive speech lab session
-- Meet in Hanson Hall, L-132
-- For your persuasive speech, bring the following: 
-     - Copies of your take-away document for me & your peers
-     - Your slides (emailed or on a flash drive)
-     - CP 67–73
+- ~~Persuasive speech lab session~~
+- ~~Meet in Hanson Hall, L-132~~
+- ~~For your persuasive speech, bring the following:~~
+     - ~~Copies of your take-away document for me & your peers~~
+     - ~~Your slides (emailed or on a flash drive)~~
+     - ~~CP 67–73~~
 
 **Week 8 (10/29):**
 
