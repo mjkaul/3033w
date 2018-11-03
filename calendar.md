@@ -149,16 +149,23 @@ permalink: /calendar/
      - ~~Your slides (emailed or on a flash drive)~~
      - ~~CP 67–73~~
 
-**Week 8 (10/29):**
+~~**Week 8 (10/29):**~~
 
-- Due: 
-     - Read *How to Think* 89–112 (ch. 4)
-     - Read the Deloitte case-study materials (Canvas)
-     - Read CP 153–80 & 201–22
- - Topics: 
-     - Give me your Deloitte team preferences
-     - Business communications: memos, email, voicemail, forms, etc.
-     - Deloitte case-study project introduction
+- ~~Due: ~~
+     - ~~Read *How to Think* 89–112 (ch. 4)~~
+     - ~~Read the Deloitte case-study materials (Canvas)~~
+     - ~~Read CP 153–80 & 201–22~~
+ - ~~Topics:~~ 
+     - ~~Give me your Deloitte team preferences~~
+     - ~~Business communications: memos, email, voicemail, forms, etc.~~
+     - ~~Deloitte case-study project introduction~~
+
+~~**Thursday, 11/1**~~
+
+~~Deloitte guest speakers:~~
+
+- ~~4–5 pm, Honeywell Auditorium~~
+- ~~At least one member of each team must attend. (The more the merrier!)~~
 
 **Week 9 (11/5):**
 
@@ -175,13 +182,6 @@ permalink: /calendar/
      - Unit III overview
      - Deloitte team meeting
      - Deloitte proposal writing
-
-**Tuesday, 11/6**
-
-Deloitte guest speakers:
-
-- 4–5 pm, 3M Auditorium
-- At least one member of each team must attend. (The more the merrier!)
 
 ---
 ## Unit III. *Pathos: Connecting with Your Audience*
