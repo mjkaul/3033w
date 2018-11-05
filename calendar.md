@@ -212,7 +212,7 @@ permalink: /calendar/
      - Sample Proposals
      - Elements of Strong Deck Proposals - week 9 slides
      
-**Friday, 11/23**
+**Friday, 11/16**
 
 Due:
 
