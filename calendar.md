@@ -167,21 +167,21 @@ permalink: /calendar/
 - ~~4–5 pm, Honeywell Auditorium~~
 - ~~At least one member of each team must attend. (The more the merrier!)~~
 
-**Week 9 (11/5):**
+~~**Week 9 (11/5):**~~
 
-- Due: 
-     - **Timed Memo** (completed in class; *you cannot make this up if you miss class*)
-     - Persuasive speech self-evaluation (either email to me before class or turn in at the beginning of class)
-     - Bring your laptops to class today
-     - Bring CP 171
-     - Read *How to Think* 113–124 (ch. 5)
-     - Re-read CP 203–22
-     - Skim the proposal samples posted below
-- Topics: 
-     - Timed Memos
-     - Unit III overview
-     - Deloitte team meeting
-     - Deloitte proposal writing
+- ~~Due:~~ 
+     - ~~**Timed Memo** (completed in class; *you cannot make this up if you miss class*)~~
+     - ~~Persuasive speech self-evaluation (either email to me before class or turn in at the beginning of class)~~
+     - ~~Bring your laptops to class today~~
+     - ~~Bring CP 171~~
+     - ~~Read *How to Think* 113–124 (ch. 5)~~
+     - ~~Re-read CP 203–22~~
+     - ~~Skim the proposal samples posted below~~
+- ~~Topics:~~ 
+     - ~~Timed Memos~~
+     - ~~Unit III overview~~
+     - ~~Deloitte team meeting~~
+     - ~~Deloitte proposal writing~~
 
 ---
 ## Unit III. *Pathos: Connecting with Your Audience*
@@ -254,6 +254,10 @@ Due:
      - Deloitte presentations
 - Resources on Canvas:  
      - Presentation Order Sign-Up Form
+
+**Friday, 12/7 – Monday, 12/10**
+
+- Deloitte competition semi-finals (decks judged by Deloitte)
 
 **Week 14 (12/10; 12/14):**
 
