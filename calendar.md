@@ -194,50 +194,50 @@ permalink: /calendar/
 
 # Weeks 10 - 14
 
-**Week 10 (11/12):**
+~~**Week 10 (11/12):**~~
 
-- Due: 
-     - Read ["The Best Presentations are Tailored to the Audience"](https://hbr.org/2015/04/the-best-presentations-are-tailored-to-the-audience)
-     - Read *How to Think* 125–138 (ch. 6)
-     - Email your team Deloitte proposal draft to me by 3:30 pm
-          - Only one email per group, please!
-          - Include your team name and your team members’ names
-          - Make sure that each of you brings a copy of your proposal draft to class
-     - Prepare comments and questions for your meeting with me
-     - Sign up for a meeting time on the wiki below
-- Topics: 
-    - Deloitte team meetings with me in the classroom
-- Resources on Canvas: 
-     - Group Meeting Sign-Up Form
-     - Sample Proposals
-     - Elements of Strong Deck Proposals - week 9 slides
+- ~~Due:~~ 
+     - ~~Read ["The Best Presentations are Tailored to the Audience"](https://hbr.org/2015/04/the-best-presentations-are-tailored-to-the-audience)~~
+     - ~~Read *How to Think* 125–138 (ch. 6)~~
+     - ~~Email your team Deloitte proposal draft to me by 3:30 pm~~
+          - ~~Only one email per group, please!~~
+          - ~~Include your team name and your team members’ names~~
+          - ~~Make sure that each of you brings a copy of your proposal draft to class~~
+     - ~~Prepare comments and questions for your meeting with me~~
+     - ~~Sign up for a meeting time on the wiki below~~
+- ~~Topics:~~
+    - ~~Deloitte team meetings with me in the classroom~~
+- ~~Resources on Canvas:~~
+     - ~~Group Meeting Sign-Up Form~~
+     - ~~Sample Proposals~~
+     - ~~Elements of Strong Deck Proposals - week 9 slides~~
      
-**Friday, 11/16**
+~~**Friday, 11/16**~~
 
-Due:
+~~Due:~~
 
-- Deloitte proposal deck—draft 1 (email to me by noon today)
+- ~~Deloitte proposal deck—draft 1 (email to me by noon today)~~
 
-**Week 11 (11/19):**
+~~**Week 11 (11/19):**~~
 
-- Due: 
-     - Read *How to Think* 139–end (ch. 7, conclusion, & afterword)
-     - Review CP 216-20
-     - Read CP 223-34
-     - Take a look at the example graphs posted below
-     - Mid-project team evaluation (CP 233-4 and below)
-- Topics: 
-     - Overview of basic grammar problems
-     - Deloitte proposal writing and graphics
-     - Deloitte team meetings and proposal writing
-- Resources on Canvas:
-     - Mid-project Team Evaluation File resource
-     - Example Graphs File resource
-     - Graphics: What Works and What Doesn't (slides from class) File resource 
+- ~~Due:~~
+     - ~~Read *How to Think* 139–end (ch. 7, conclusion, & afterword)~~
+     - ~~Review CP 216-20~~
+     - ~~Read CP 223-34~~
+     - ~~Take a look at the example graphs posted below~~
+     - ~~Mid-project team evaluation (CP 233-4 and below)~~
+- ~~Topics:~~
+     - ~~Overview of basic grammar problems~~
+     - ~~Deloitte proposal writing and graphics~~
+     - ~~Deloitte team meetings and proposal writing~~
+- ~~Resources on Canvas:~~
+     - ~~Mid-project Team Evaluation File resource~~
+     - ~~Example Graphs File resource~~
+     - ~~Graphics: What Works and What Doesn't (slides from class) File resource ~~
 
 **Week 12 (11/26):**
 
-- Due: 
+- Due:
      - Read CP 223-29
      - Final written Deloitte proposal due to me via email before class starts
 - Topics: 
